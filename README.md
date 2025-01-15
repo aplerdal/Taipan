@@ -45,7 +45,3 @@ A "resource" is anything that can be bought or sold in game. A working list of r
 - Silver
 
 #### Economy
-
-
-## Style
-All grpahics are made with ascii characters (cp437), but without the standard grid lock. Not intended to be playable in a real terminal.
