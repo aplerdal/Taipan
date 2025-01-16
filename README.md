@@ -57,7 +57,7 @@ Each city has begining production and "want" values. The production for products
 The economy operates on a schedule of imports. Each shipment will immediately export the amount from the supply of the current location and schedule an increase at the destination in x portions of a month unless an event (storms, etc.) prevents it.
 
 Some things to balance:
-- Storing resources may make a rediculous amount of money when selling out of season due to a limited supply and similar demand. Maybe allow AI traders to do this (or we can have seperate storage amounts that affect supply)?
+- Storing resources may make a ridiculous amount of money when selling out of season due to a limited supply and similar demand. Maybe allow AI traders to do this (or we can have seperate storage amounts that affect supply)?
 # Sources
 Some sources that were either used or could be useful or interesting in the future.
 - [China Clippers](https://archive.org/details/cu31924024151957/page/n15/mode/2up?view=theater)
