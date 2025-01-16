@@ -45,3 +45,9 @@ A "resource" is anything that can be bought or sold in game. A working list of r
 - Silver
 
 #### Economy
+The game operates in months, all economics are at a one month scale.
+
+All ports have a slightly interconnected economy, albiet a delayed connection. Each port has a simulated supply and demand that determine the price of an item. And excess of supply at a given port will lead to the supply from said port be distributed to ports with lower supply and higher demand, taking account for the speed of information.
+
+For example:\
+We are visiting Calcutta, and there is an excess of supply at the moment. For the sake of explaination, let's say Hong Kong is 2 months away. The last time there was contact with Hong Kong there was an excess of demand, and a limited supply, so independent of the player's actions, demand in Calcutta rises accordingly and that excess supply is relocated to Hong Kong. There are some potential issues with this system, like several cities suddenly trasfering a large portion of their supply to a single other, but it might be evened out by others.
