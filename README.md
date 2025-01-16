@@ -51,3 +51,7 @@ All ports have a slightly interconnected economy, albiet a delayed connection. E
 
 For example:\
 We are visiting Calcutta, and there is an excess of supply at the moment. For the sake of explaination, let's say Hong Kong is 2 months away. The last time there was contact with Hong Kong there was an excess of demand, and a limited supply, so independent of the player's actions, demand in Calcutta rises accordingly and that excess supply is relocated to Hong Kong. There are some potential issues with this system, like several cities suddenly trasfering a large portion of their supply to a single other, but it might be evened out by others.
+
+# Sources
+Some sources that were either used or could be useful or interesting in the future.
+- [China Clippers](https://archive.org/details/cu31924024151957/page/n15/mode/2up?view=theater)
