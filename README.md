@@ -44,14 +44,20 @@ A "resource" is anything that can be bought or sold in game. A working list of r
 - Opium
 - Silver
 
-#### Economy
-The game operates in months, all economics are at a one month scale.
+### Economy
+The game operates in 1/3s of months (early, mid, late), all economics are at a this scale.
 
-All ports have a slightly interconnected economy, albiet a delayed connection. Each port has a simulated supply and demand that determine the price of an item. And excess of supply at a given port will lead to the supply from said port be distributed to ports with lower supply and higher demand, taking account for the speed of information.
+All ports have a slightly interconnected economy, albiet a delayed transportationn connection. Each port has a simulated supply and demand that determine the price of an item. And excess of supply at a given port will lead to the supply from said port be distributed to ports with lower supply and higher demand, as telegram was already established throughout the majority of the region, we will assume instant communication.
 
 For example:\
-We are visiting Calcutta, and there is an excess of supply at the moment. For the sake of explaination, let's say Hong Kong is 2 months away. The last time there was contact with Hong Kong there was an excess of demand, and a limited supply, so independent of the player's actions, demand in Calcutta rises accordingly and that excess supply is relocated to Hong Kong. There are some potential issues with this system, like several cities suddenly trasfering a large portion of their supply to a single other, but it might be evened out by others.
+We are visiting Calcutta, and there is an excess of supply at the moment. For the sake of explaination, let's say Hong Kong is 15 days away. The last time there was contact with Hong Kong there was an excess of demand, and a limited supply, so independent of the player's actions, demand in Calcutta rises accordingly and that excess supply is relocated to Hong Kong.
 
+Each city has begining production and "want" values. The production for products is relatively stable year to year, although they may change according to growing seasons etc, this value is used alongside an import amount to determine the supply. The "want" value represents the amount people want the resource, this is used alongside exports to determine the demand.
+
+The economy operates on a schedule of imports. Each shipment will immediately export the amount from the supply of the current location and schedule an increase at the destination in x portions of a month unless an event (storms, etc.) prevents it.
+
+Some things to balance:
+- Storing resources may make a rediculous amount of money when selling out of season due to a limited supply and similar demand. Maybe allow AI traders to do this (or we can have seperate storage amounts that affect supply)?
 # Sources
 Some sources that were either used or could be useful or interesting in the future.
 - [China Clippers](https://archive.org/details/cu31924024151957/page/n15/mode/2up?view=theater)
