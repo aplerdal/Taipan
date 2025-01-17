@@ -58,5 +58,5 @@ Some things to balance:
 # Sources
 Some sources that were either used or could be useful or interesting in the future.
 - [China Clippers](https://archive.org/details/cu31924024151957/page/n15/mode/2up?view=theater)
-- *Hamilton, Lindsay H.*, Is the War With China a Just One? [Google Books](https://books.googleusercontent.com/books/content?req=AKW5QaeHi-nS3_XHy4gVLMhbZYrWqMU1Tu64AFKVRXwQ9tYeU0aVuGBjLf0LVKKeLoqyGrN0u29Hlz-HyIfFvYyDVUp7v2FKO1i2UrcxB-3j_81Iy4T26pzzslvIhk3GK99LH47NKU9q4XWzmoY7c6QmarJ6sZFF9OKyrax-_WV_Ndr0sI73vV1x-SF4wMJLt5l4qTItmyw1L20C6SIQghUOKZevaXlEhZ62pmpr4Gq3a9eUgDuF_qvcgs8jHz75sg6B0rH2MLw4tyjE1pMYw5Yq4MM75jyFuA)
+- *Hamilton, Lindsay H.*, Is the War With China a Just One? (1840) [Google Books](https://books.googleusercontent.com/books/content?req=AKW5QaeHi-nS3_XHy4gVLMhbZYrWqMU1Tu64AFKVRXwQ9tYeU0aVuGBjLf0LVKKeLoqyGrN0u29Hlz-HyIfFvYyDVUp7v2FKO1i2UrcxB-3j_81Iy4T26pzzslvIhk3GK99LH47NKU9q4XWzmoY7c6QmarJ6sZFF9OKyrax-_WV_Ndr0sI73vV1x-SF4wMJLt5l4qTItmyw1L20C6SIQghUOKZevaXlEhZ62pmpr4Gq3a9eUgDuF_qvcgs8jHz75sg6B0rH2MLw4tyjE1pMYw5Yq4MM75jyFuA)
   - pg 14. has trading processes
