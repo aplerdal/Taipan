@@ -60,3 +60,6 @@ Some sources that were either used or could be useful or interesting in the futu
 - [China Clippers](https://archive.org/details/cu31924024151957/page/n15/mode/2up?view=theater)
 - *Hamilton, Lindsay H.*, Is the War With China a Just One? (1840) [Google Books](https://books.googleusercontent.com/books/content?req=AKW5QaeHi-nS3_XHy4gVLMhbZYrWqMU1Tu64AFKVRXwQ9tYeU0aVuGBjLf0LVKKeLoqyGrN0u29Hlz-HyIfFvYyDVUp7v2FKO1i2UrcxB-3j_81Iy4T26pzzslvIhk3GK99LH47NKU9q4XWzmoY7c6QmarJ6sZFF9OKyrax-_WV_Ndr0sI73vV1x-SF4wMJLt5l4qTItmyw1L20C6SIQghUOKZevaXlEhZ62pmpr4Gq3a9eUgDuF_qvcgs8jHz75sg6B0rH2MLw4tyjE1pMYw5Yq4MM75jyFuA)
   - pg 14. has trading processes
+- House of Commons, *Hansard*, Esp. Apr 7-9, 1840, cols. 669-951 [Uk Parliment](https://api.parliament.uk/historic-hansard/commons/1840/apr/07/war-with-china)
+  - Has interesting perspective on the British thought process for the Anglo-English war
+- *Gelber, Harry G.*, China as "Victim"? The Opium War That Wasn't [Havard CES](https://ces.fas.harvard.edu/uploads/files/Working-Papers-Archives/CES_WP136.pdf)
